@@ -5,9 +5,9 @@ module "account_request_01" {
     AccountEmail              = "saketh.chodimella@gmail.com"
     AccountName               = "TestAccount"
     ManagedOrganizationalUnit = "Accenture (ou-tj50-wtnrubrb)" 
-    SSOUserEmail              = ""
-    SSOUserFirstName          = ""
-    SSOUserLastName           = ""
+    SSOUserEmail              = "saketh.chodimella@gmail.com"
+    SSOUserFirstName          = "Saketh"
+    SSOUserLastName           = "Manager"
   }
 
   account_tags = {
