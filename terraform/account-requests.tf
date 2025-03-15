@@ -3,7 +3,7 @@ module "account_request_01" {
 
   control_tower_parameters = {
     AccountEmail              = "sakethaws-newaccount@yahoo.com"
-    AccountName               = "Vended Account"
+    AccountName               = "VendedAccount"
     ManagedOrganizationalUnit = "Sandbox (ou-t0vx-elm3wmv8)" 
     SSOUserEmail              = "sakethaws-newaccount@yahoo.com""
     SSOUserFirstName          = "Account"
